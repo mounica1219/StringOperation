@@ -1,6 +1,6 @@
 package TddJunit;
 import java.util.*;
-public class Main
+public class str_opr
 {
     public static void main(String args[])
 	{
